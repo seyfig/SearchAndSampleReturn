@@ -1,8 +1,13 @@
+[//]: # (References)
+[1]: ./writeup_report.md "Project Report"
+
 # Search and Sample Return Project
 [Udacity Robotics NanoDegree Term 1 Search and Sample Return Project](https://github.com/udacity/RoboND-Rover-Project)
 
 ## Overview
 In this project, the aim is to implement the three essential elements of robotics, which are perception, decision making and actuation. The project will be tested in a simulator environment built with the Unity game engine.
+
+The details of the study is given in the [Report][1].
 
 This project is modeled after the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html) and it will give you first hand experience with the three essential elements of robotics, which are perception, decision making and actuation.  You will carry out this project in a simulator environment built with the Unity game engine.
 

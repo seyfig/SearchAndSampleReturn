@@ -40,25 +40,33 @@
 #### 1. Sample Rover image from different view points.
 
 ![alt text][image1]
+
+
 ![alt text][image2]
+
 
 Calibration image:
 ![alt text][image3]
 
+
 Rock image:
 ![alt text][image4]
+
 
 #### 2. Perspect Transform.
 Select the source and destination points to perform the transform, then use cv2.getPerspectiveTransform and cv2.warpPerspective functions to obtain the warped image and warped mask.
 
+
 Warped image:
 ![alt text][image5]
+
 
 Warped mask:
 ![alt text][image6]
 
 #### 3. Color threshold.
 Select the pixels with all three channels has a value greater than 160.
+
 
 Thresholded image:
 ![alt text][image7]
