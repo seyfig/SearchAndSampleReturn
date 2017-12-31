@@ -47,3 +47,6 @@ python drive_rover.py
 ```
 
 The simulator settings were set to 640x480, fastest, and windowed.
+
+### Project Walkthrough
+If you're struggling to get started on this project, or just want some help getting your code up to the minimum standards for a passing submission, we've recorded a walkthrough of the basic implementation for you but **spoiler alert: this [Project Walkthrough Video](https://www.youtube.com/watch?v=oJA6QHDPdQw) contains a basic solution to the project!**.

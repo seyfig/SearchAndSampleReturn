@@ -95,4 +95,6 @@ The `perception_step()` function (at the bottom of the `perception.py` script) i
 The simulator settings were set to 640x480, fastest, and windowed. The rover can navigate and map partially in the autonomous mode. One of the main problem is that when the rover comes to a fork, it begins to make circles without moving forward. The reason is calculating the angle by taking the mean of the angles to the navigable pixels.
 Another problem is locating the rocks and picking them up is not implemented.
 
+This implementation is based on the [Project Walkthrough Video](https://www.youtube.com/watch?v=oJA6QHDPdQw).
+
 
